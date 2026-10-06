@@ -1,5 +1,8 @@
 library(cubature)
 n=10;rho=0.1;b=8;alpha=2;beta=3
+x=c()
+numerator=c()
+denomenator=c()
 numerator1=c()
 rhoSELF=c()
 riskSELF=c()
